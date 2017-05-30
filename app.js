@@ -18,7 +18,7 @@ const argv = yargs
 
 
 if (argv.address === undefined) {
-    argv.address = '491 urban estate phase 2 patiala punjab';
+    argv.address = 'patiala punjab';
 
 }
 
